@@ -27,6 +27,7 @@ I am passionate about creating software that makes life easier. I'm always looki
 - ✨ Building full-stack apps and automation tools
 - ⛏ Exploring backend APIs and cloud deployments
 - 🌐 Contributing to open-source
+- Building a website for a side business called 905PartyRentals
 
 ---
 
